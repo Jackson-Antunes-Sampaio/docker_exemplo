@@ -1,0 +1,7 @@
+host: antunes
+datacenter: 
+  location: São Paulo
+  router: 42
+roles:
+  - web
+  - dns

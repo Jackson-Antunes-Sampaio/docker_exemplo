@@ -1,0 +1,6 @@
+host: antunes
+datacenter: 
+  location: São Paulo
+  router: 42
+
+datacenter2: {location: São Paulo, router: 42 }

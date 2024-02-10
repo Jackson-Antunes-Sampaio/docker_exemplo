@@ -1,0 +1,23 @@
+host: antunes
+datacenter:
+  location: São Paulo
+  router: 42
+  switch: 32
+roles:
+  - webserver
+  - database
+funcionamento: |
+  segunda - das 08:00 às 17:00
+  terça   - das 09:00 às 18:00
+  quarta  - das 10:00 às 19:00
+  quinta  - das 11:00 às 20:00
+  sexta   - das 12:00 às 21:00
+  sabado  - das 13:00 às 22:00
+  domingo - das 14:00 às 23:00
+comentarios: >
+  termos alto uso de CPU
+  desde 04/10/2020.
+  Estamos investigando
+
+    Jackson antunes
+    jackson@email.com

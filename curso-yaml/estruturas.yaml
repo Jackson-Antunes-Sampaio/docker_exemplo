@@ -1,0 +1,27 @@
+---
+host: antunes
+datacenter:
+  location: São Paulo
+  router: 42
+  switch: 32
+roles:
+  - webserver
+  - database
+---
+host: Jackson
+datacenter:
+  location: Argentina
+  router: 42
+  switch: 32
+roles:
+  - webserver
+  - database
+---
+host: Sampaio
+datacenter:
+  location: Canada
+  router: 42
+  switch: 32
+roles:
+  - webserver
+  - database

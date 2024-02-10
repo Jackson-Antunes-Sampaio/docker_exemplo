@@ -1,0 +1,10 @@
+# Configuraçôes do host Gee
+---
+host: antunes
+datacenter:
+  location: São Paulo # capital do estado
+  router: 42
+  switch: 32
+roles:
+  - webserver
+  - database
